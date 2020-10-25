@@ -7,7 +7,7 @@ The purpose of this project is to demonstrate ability to collect, work with, and
 ------------------------------
 Project includes files: 
 ------------------------------
-- 'README.txt'
+- 'README.md'
 - 'run_analysis.R' : code to perfom raw data to tidy data
 - 'Codebook.pdf': about data 
 - raw data for this project:   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
