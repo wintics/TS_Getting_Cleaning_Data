@@ -1,4 +1,3 @@
-# TS_Getting_Cleaning_Data
 
 ----------------------------------------
 Getting and Cleaning Data Course Project
@@ -10,7 +9,7 @@ Project includes files:
 ------------------------------
 - 'README.txt'
 - 'run_analysis.R' : code to perfom raw data to tidy data
-- 'Codebook.html': about data 
+- 'Codebook.pdf': about data 
 - raw data for this project:   https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ------------------------------
